@@ -53,16 +53,35 @@ Output:
 
 
 Step 7: Making Graphs:
-Number of Rides: Member vs. Casual
+Number of Rides by Day of Week and User Type
 Input:
-![Screenshot 2023-01-03 at 2 36 12 PM](https://user-images.githubusercontent.com/114360846/210452720-123c219f-073c-47bb-bd6f-f248fca26d70.png)
+![Screenshot 2023-01-03 at 3 43 31 PM](https://user-images.githubusercontent.com/114360846/210459541-e0ba01fb-d00e-4d39-814b-c23ad5cec26e.png)
+
 Output
-![c0d3d110-2d15-44a1-a1f0-45a6abb872f3](https://user-images.githubusercontent.com/114360846/210452808-fd94ce2b-bee6-4ed7-8adb-55a17a7bda1f.png)
+![45ed3f87-579d-4a47-ab7f-4b8072243a0a](https://user-images.githubusercontent.com/114360846/210459581-4c24e7ed-ff13-4d32-a707-e4304fd5aa3f.png)
 
-Average Duration: Member vs. Casual
+Analysis:
+-Greatest discrepancies during the weekday (Monday through Friday)
+  -Members take take approximately twice the number of rides as casuals do during this time
+
+Average Duration 
 Input:
-![Screenshot 2023-01-03 at 2 37 38 PM](https://user-images.githubusercontent.com/114360846/210452891-7d349f85-2cf3-4946-8c0e-1eb46ca8e3bf.png)
-Output:
-![e318b0e5-ea20-412c-b381-2eaf321b3e6d](https://user-images.githubusercontent.com/114360846/210452915-f48162fa-e1be-4d69-bb50-45635bdd58f0.png)
+![Screenshot 2023-01-03 at 3 46 35 PM](https://user-images.githubusercontent.com/114360846/210459839-e09cdd84-6bbf-4c44-992c-12a405a9c874.png)
 
+Output:
+![b06356fe-33f5-4f4f-9f61-53db2659feba](https://user-images.githubusercontent.com/114360846/210459913-8dfb6ddb-8769-41fd-887f-a5ed0dcf1808.png)
+
+Analysis:
+-Casuals ride for a longer duration, regardless of the day
+
+Bike Type vs. User Type
+Input:
+![Screenshot 2023-01-03 at 3 39 44 PM](https://user-images.githubusercontent.com/114360846/210459199-4b93df65-9cd2-4a36-bfb7-6a04c4bffe1c.png)
+
+Output:
+![cf373c6c-4b6b-4468-9db6-4baf85b2a119](https://user-images.githubusercontent.com/114360846/210459284-7b651e95-fdec-441b-8bc1-c504f10c6f4e.png)
+
+
+Recommendations
+-Implement a new annual m
 
