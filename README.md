@@ -39,4 +39,30 @@ Step 4: Further Clean-Up and v2
 Step 5: Add Data
 ![Screenshot 2023-01-03 at 2 19 04 PM](https://user-images.githubusercontent.com/114360846/210450653-69e9206d-fa87-4f23-96e2-f9f38fb51c00.png)
 
-Step 6: 
+Step 6: Analysis
+Input:
+![Screenshot 2023-01-03 at 2 31 11 PM](https://user-images.githubusercontent.com/114360846/210452135-319ec348-d0e9-4940-b07f-d447378b603f.png)
+
+Output:
+![Screenshot 2023-01-03 at 2 30 54 PM](https://user-images.githubusercontent.com/114360846/210452105-18282c71-22c9-44a0-9151-cd4942678fbe.png)
+
+Input:
+![Screenshot 2023-01-03 at 2 32 03 PM](https://user-images.githubusercontent.com/114360846/210452226-45d9b958-db62-4181-a18a-90a3fad45dc5.png)
+Output:
+![Screenshot 2023-01-03 at 2 32 19 PM](https://user-images.githubusercontent.com/114360846/210452259-a525a285-6c96-4a0f-811c-2941bb1bcd0f.png)
+
+
+Step 7: Making Graphs:
+Number of Rides: Member vs. Casual
+Input:
+![Screenshot 2023-01-03 at 2 36 12 PM](https://user-images.githubusercontent.com/114360846/210452720-123c219f-073c-47bb-bd6f-f248fca26d70.png)
+Output
+![c0d3d110-2d15-44a1-a1f0-45a6abb872f3](https://user-images.githubusercontent.com/114360846/210452808-fd94ce2b-bee6-4ed7-8adb-55a17a7bda1f.png)
+
+Average Duration: Member vs. Casual
+Input:
+![Screenshot 2023-01-03 at 2 37 38 PM](https://user-images.githubusercontent.com/114360846/210452891-7d349f85-2cf3-4946-8c0e-1eb46ca8e3bf.png)
+Output:
+![e318b0e5-ea20-412c-b381-2eaf321b3e6d](https://user-images.githubusercontent.com/114360846/210452915-f48162fa-e1be-4d69-bb50-45635bdd58f0.png)
+
+
