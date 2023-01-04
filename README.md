@@ -29,7 +29,7 @@ Uploaded files using "readr" package
 ![Screenshot 2023-01-03 at 1 39 24 PM](https://user-images.githubusercontent.com/114360846/210445691-da16ad95-aa57-4dfd-9ed2-1fafd9a1a0cd.png)
 
   <h3>Step 3: Created new column:ride_length</h3>
-![Screenshot 2023-01-03 at 2 07 40 PM](https://user-images.githubusercontent.com/114360846/210449303-fe171ce7-b95c-42ee-a43d-452fa571f0a9.png)
+  ![Screenshot 2023-01-03 at 2 07 40 PM](https://user-images.githubusercontent.com/114360846/210449303-fe171ce7-b95c-42ee-a43d-452fa571f0a9.png)
 
   <h3>Step 4: Further Clean-Up and v2</h3>
 -Various trips where ride_length returns a negative duration. These entries were omitted from the data_frame.
