@@ -66,10 +66,11 @@ Analysis:
 
 Average Duration 
 Input:
-![Screenshot 2023-01-03 at 3 46 35 PM](https://user-images.githubusercontent.com/114360846/210459839-e09cdd84-6bbf-4c44-992c-12a405a9c874.png)
+![Screenshot 2023-01-03 at 4 08 16 PM](https://user-images.githubusercontent.com/114360846/210461659-fe6d86c3-1689-4df7-9bec-4f123a0f1b34.png)
 
 Output:
-![b06356fe-33f5-4f4f-9f61-53db2659feba](https://user-images.githubusercontent.com/114360846/210459913-8dfb6ddb-8769-41fd-887f-a5ed0dcf1808.png)
+![bc2ca5b1-3243-45d8-9e0a-7153ef717914](https://user-images.githubusercontent.com/114360846/210461691-6bfe77ac-9dba-44c3-91e1-c68fc918a9b8.png)
+
 
 Analysis:
 -Casuals ride for a longer duration, regardless of the day
@@ -83,4 +84,11 @@ Output:
 
 
 Recommendations
--
+Problem: Not many casual users during the weekday.
+Solution: Run a weekday only membership program:
+
+Problem: Casual riders average duration is much longer (~2x) than members. This creates a slower "flow" of available bikes.
+Solution: Offer time-sensitive passes that automatically upgrade to provide you the best fare (how bus passes work in Portland, Oregon). Example: First ride gives you an unlimited pass for first 2.5hrs. Then if you need to purchase another unlimited pass in the same day, it automatically upgrades you to a Day Pass. If you acquire more than a set number of Day Passes (i.e. 20), then you get automatically upgraded to a "Member" for the month.
+
+Problem: Members prefer classic bikes more than casual riders.
+Solution: Offer more electric bikes as there might not be enough in circulation for the all of those who want it (would need further data for this analysis).
