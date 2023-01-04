@@ -1,22 +1,22 @@
 # cyclistic_bikeshare_study
-How Does a Bike-Share Navigate Speedy Success? 
+<h1>How Does a Bike-Share Navigate Speedy Success?</h1>
 
-Scenario: 
+<h2>Scenario:</h2>
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations
 
 
-Business Task:
+<h2>Business Task:</h2>
 How do annual members and casual riders use Cyclistic bikes differently?
 
-Prepare and Process Data:
--Data Source: Divvy trip data (https://divvy-tripdata.s3.amazonaws.com/index.html)
--Data from previous 12 months: 2021-12 to 2022-11
--Data Includes: User IDs, user type, bike type, start & end details (times, positions, station names & IDs)
--Copied data set into separate folder called "data" on my desktop
+<h3>Prepare and Process Data:</h3>
+<ul>
+  <li> Data Source: <a href="https://divvy-tripdata.s3.amazonaws.com/index.html"> Divvy Trip Data </a> </li>
+  <li>Data from previous 12 months (2021-12 to 2022-11)</li>
+  <li>Data Includes: User IDs, user type, bike type, start & end details (times, positions, station names & IDs)</li>
+  <li>Copied data set into separate folder called "data" on my desktop</li>
 
-
-Tool Used:
--Rstudio: Great tool for analyzing and visualizing large data-sets
+<h3>Tool Used:</h3>
+  <b>Rstudio</b>: Great tool for analyzing and visualizing large data-sets
 
 Step 1: Importing Data into R-Studio
 Uploaded files using "readr" package
@@ -88,7 +88,11 @@ Problem: Not many casual users during the weekday.
 Solution: Run a weekday only membership program:
 
 Problem: Casual riders average duration is much longer (~2x) than members. This creates a slower "flow" of available bikes.
-Solution: Offer time-sensitive passes that automatically upgrade to provide you the best fare (how bus passes work in Portland, Oregon). Example: First ride gives you an unlimited pass for first 2.5hrs. Then if you need to purchase another unlimited pass in the same day, it automatically upgrades you to a Day Pass. If you acquire more than a set number of Day Passes (i.e. 20), then you get automatically upgraded to a "Member" for the month.
+Solution: Offer time-sensitive passes that automatically upgrade to provide you the best fare (how bus passes work in Portland, Oregon). Example: First ride gives you an unlimited pass for first 2.5hrs. Then if you need to purchase another unlimited pass in the same day, it automatically upgrades you to a Day Pass. If you acquire more than a set number of Day Passes (i.e. 20), then you get automatically upgraded to a "Member" for the month. This will organically create more monthly pass holders since users will know that they will:
+
+-Always get the best fair
+-Save more by riding more frequently
+-Not have to pay any upfront costs
 
 Problem: Members prefer classic bikes more than casual riders.
 Solution: Offer more electric bikes as there might not be enough in circulation for the all of those who want it (would need further data for this analysis).
